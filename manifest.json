@@ -1,0 +1,10 @@
+﻿{
+	"name": "AdaptiveDirector",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "More and stronger enemies spawn based on enemy count and how fast they're being killed",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2111",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
